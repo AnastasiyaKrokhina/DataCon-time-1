@@ -1,6 +1,6 @@
 # DataCon-time-1
 
-Соавторы: 
+СОАВТОРЫ: 
 https://github.com/linafrolova, 
 https://github.com/daryakryukova, 
 https://github.com/LobachArtemiy
